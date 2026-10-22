@@ -17,5 +17,9 @@ and for fun &nbsp;<img src="https://skillicons.dev/icons?i=java,arduino" height=
 Have a project? Write to me.
 
 <p>
-  <a href="https://sinuxoff.com"><img src="https://img.shields.io/badge/sinuxoff.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a> &nbsp;<a href="https://t.me/sinuxoff"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:v.schip4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;<a href="https://ko-fi.com/s1nuxoff"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://sinuxoff.com"><img src="https://img.shields.io/badge/sinuxoff.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a> &nbsp;<a href="https://t.me/sinuxoff"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;<a href="mailto:v.schip4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+If something I made saved you time:
+
+<a href="https://ko-fi.com/s1nuxoff"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
